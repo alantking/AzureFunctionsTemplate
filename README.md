@@ -4,12 +4,7 @@
  This is a fairly basic template that can be used when starting a new project. 
  
  I have included some example services and function calls purely to see how the code can be implemented, and services injected. It is not meant to be very functional, more for learning / just as an example.
-
-# DiscordBot-JS
-Discord bot in javascript with reddit and twitter api integrations.
-
-You must have developer accounts for Twitter and Reddit, and you must have created an application and recieved the appropriate tokens for your applications from Discord, Twitter and Reddit in order for this bot to build and run. If you don't need either Twitter or Reddit, you can remove or comment out the code that references them.
-
+ 
 ### Instructions for building and running
 
 1. Clone/Download this repository
